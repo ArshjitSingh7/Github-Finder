@@ -1,4 +1,4 @@
 # Github-Finder
 
-link is given below :
+link :
 https://arshjitsingh7.github.io/Github-Finder/
